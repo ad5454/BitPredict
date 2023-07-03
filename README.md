@@ -1,2 +1,2 @@
 # BitPredict
-###BitPredict: predicting the price of Bitcoin
+BitPredict: predicting the price of Bitcoin
